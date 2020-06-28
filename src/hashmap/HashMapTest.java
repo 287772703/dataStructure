@@ -14,7 +14,8 @@ public class HashMapTest {
         System.out.println(zhangsan.toString());
         System.out.println("杨小洲是煞笔");
         System.out.println("杨小洲是煞笔");
-        //测试冲突语句
+        hm.put("lisi",34);
+        hm.put("wangu",65);
 
     }
 }
