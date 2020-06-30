@@ -16,6 +16,7 @@ public class HashMapTest {
         System.out.println("杨小洲是煞笔");
         hm.put("lisi",34);
         hm.put("wangu",65);
+        //fork测试冲突2
 
     }
 }
