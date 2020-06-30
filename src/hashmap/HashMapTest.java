@@ -17,6 +17,6 @@ public class HashMapTest {
         hm.put("lisi",34);
         hm.put("wangu",65);
         //fork开发分支，远程github同步主项目测试。
-
+        //fork测试冲突2
     }
 }
